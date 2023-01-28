@@ -1,0 +1,655 @@
+*{
+    margin: 0;
+    padding: 0;
+
+  
+}
+.container{
+    margin-left: 335px;
+}
+.top-header{
+    display: flex;
+    height: 50px;
+    background-color: #F6623E;
+    overflow: hidden;
+    
+}
+.text-top-header{
+    padding-left: 120px;
+    padding-top: 15px;
+    color: #ffff;
+   
+}
+.buttons-top-header{
+   padding-top: 15px;
+   padding-left: 920px;
+   
+}
+
+.buton-top-text1{
+    text-decoration: none;
+    color: #ffff;
+    
+ 
+}
+.buton-top-text{
+    text-decoration: none;
+    color: #ffff;
+    
+ 
+}
+
+.buton-top-text1::after{
+    content: '';
+    border-right: 1px solid white;
+    margin-left: 10px;
+}
+
+span{
+    color: #ffff;
+}
+
+.merica{
+    padding-top: 15px;
+    padding-left: 23px;
+}
+.USD{
+    padding-top: 15px;
+    padding-left: 6px;
+    color: #ffff;
+
+}
+.arrow-top-header{
+    padding-top: 20px;
+    padding-left: 5px;
+}
+
+.primaryheader{
+    height: 154px;
+    background-color: #FFF8F6;
+}
+
+.second-header{
+    display: flex;
+    justify-content: flex-start;
+background-color: #FFF8F6;
+border-bottom: solid #E0E0E0;
+border-bottom-width: 1px;
+}
+.navbar{
+   display: flex;
+   margin-left: 370px;
+    
+}
+.HEADER-LI{
+    list-style: none;
+   margin: 20px;
+  
+}
+.HEADER-LINK{
+    text-decoration: none;
+    color: #454545;
+ 
+   
+}
+.HEADER-LINK1{
+    text-decoration: none;
+    color: #F6623E;
+}
+.logoheader{
+   margin-left: 109px;
+   padding-top: 3px;
+   
+   
+}
+ .navbar:first-child{
+   color: #F6623E;
+}
+.headersvg{
+ 
+    padding-top: 15px;
+    padding-left: 370px;
+}
+.searchsvg1{
+  margin-right: 10px;
+}
+
+
+
+.firstSection{
+    display: flex;
+    background-color: #FFF8F6;
+}
+
+.vitaminText{
+    margin-left: 273px;
+    margin-top: 138px;
+}
+.vitamin-paragraph{
+    font-size: 26px;
+    line-height: 42px;
+    font-weight: 600;
+    font-family: Jost;
+    color: #F6623E;
+}
+.vitamin-header{
+    font-size: 66px;
+    line-height: 92px;
+    color: #000000;
+}
+.vitaminparagraph-2{
+    font-size: 20px;
+    line-height: 29px;
+    color: #454545;
+}
+
+.buttonV{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 31px;
+    width:170px ;
+    height: 47px ;
+    background-color: #F6623E;
+    color: white;
+    text-decoration: none;
+    
+
+}
+.multicasepicture{
+  margin-left: 156px;
+  margin-top: 80px;
+
+}
+.multicaseimg{
+   
+}
+
+.collection-text{
+    margin-bottom: 41px;
+    font-size: 40px;
+    line-height: 57.8px;
+    color: #000000;
+}
+.twocollectionimg{
+   margin-left: 42px;
+}
+.wrapper{
+    display: flex;
+}
+.collectimg{
+    margin: 40px;
+}
+.section3{
+    margin-top: 130px;
+
+  
+}
+.Range{
+    display: flex;
+    
+
+  
+   
+}
+.textrange{
+    margin-left: 146px;
+}
+.rangeheader{
+    font-size: 50px;
+    line-height: 72px;
+    font-weight: 600;
+   color: #000000;
+}
+.rangeP{
+    font-size: 16px;
+    line-height: 25px;
+    color:#454545;
+    padding: 26px;
+ 
+}
+.rangeButton{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 254px;
+    height: 57px;
+    border: solid #F6623E;
+    text-decoration: none;
+    color: #000000;
+}
+
+
+.products{
+    display: flex;
+    margin-top: 207px;
+}
+
+.productsH3{
+    font-size: 40px;
+    line-height: 42px;
+    font-weight: 600px;
+    color: #000000;
+}
+.productsP{
+    font-size: 20px;
+    line-height: 32px;
+    color: #454545;
+}
+
+.product-button-main{
+    margin-left: 584px;
+}
+.button-products{
+    font-size: 16px;
+    line-height: 25px;
+    font-weight: 600;
+    color: #F6623E;
+    text-decoration: none;
+}
+
+.back-arrow{
+ margin-top: 5px;
+ margin-left: 7px;
+}
+
+.imagesofVitamins{
+    display: flex;
+    gap: 20px;
+}
+.productsimg{
+
+}
+
+
+.productpicturetext{
+    margin-top: 19px;
+}
+.products-text-multi{
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 500;
+    color: #000000;
+}
+.products-text-number{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    color: #F6623E;
+}
+
+
+
+
+.Support{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+    margin-left: 500px;
+
+  
+
+
+  
+}
+.support-text{
+   
+    margin-top: 50px;
+
+
+}
+.support-header{
+    font-size: 40px;
+    line-height: 42px;
+    font-weight: 600;
+    color: #000000;
+}
+.support-p{
+    font-size: 20px;
+    line-height: 32px;
+    font-weight: 400;
+    color: #454545;
+    margin-top: 10px;
+}
+
+.mainimgdiv{
+    margin-top: 92px;
+  
+}
+
+
+
+.imgaside-text2{
+    margin-top: 200px;
+   
+   
+  
+}
+
+
+
+
+.secondivWrapper{
+    margin-top: -450px;
+    margin-left: 200px;
+
+    
+}
+.support-header-text{
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 26px;
+    color: #F6623E;
+}
+
+
+.support-text-p{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #000000;
+}
+
+.bigarrow2{
+margin-left: 50px;
+}
+
+.supportsection{
+ 
+    background-color: #FFF8F6;
+    height: 800px;
+
+
+    
+}
+
+.Services{
+    margin-top: 80px;
+    height: 400px;
+ 
+}
+
+.Servicesh2{
+    font-size: 40px;
+    line-height: 42px;
+    color: #000000;
+    font-weight: 600;
+}
+
+.services-p{
+    font-size: 20px;
+    line-height: 32px;
+    color: #454545;
+    font-weight: 400;
+    padding-top: 10px;
+}
+.servicesimg{
+    display: flex;
+    margin-top: 79px;
+   gap: 201px;
+}
+.service-header{
+    font-size: 24px;
+    line-height: 34px;
+    color: #000000;
+    font-weight: 500;
+}
+.serviceparagraph{
+    font-size: 16px;
+    line-height: 20px;
+    color: #9D9D9D;
+}
+
+
+.results{
+    display: flex;
+    width: 1678px;
+    height: 773px;
+    background-color: #FFF8F6;
+    margin-left: 119px;
+    margin-top: 100px;
+
+}
+.results-text{
+    padding-left: 113px;
+    padding-top: 103px;
+
+}
+
+.results-header{
+    font-size: 20px;
+    line-height: 25px;
+    color: #000000;
+   padding: 30px;
+}
+
+.results-h3{
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 25px;
+    color: #F6623E;
+    padding: 30px;
+
+}
+.results-paragraph{
+    font-size: 26px;
+    font-weight: 500;
+    line-height: 44px;
+    color:#454545 ;
+    padding: 30px;
+}
+.results-h5{
+    font-size: 16px;
+    line-height: 20px;
+    font-weight: 600;
+    color: #F6623E;
+    padding: 30px;
+}
+.results-svg{
+    margin-left: 30px;
+}
+
+.arrows{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+
+.resultspicture{
+    margin-left: 239px;
+    margin-top: 208px;
+    position: absolute;
+    left: 40%;
+   
+
+}
+
+.redbox{
+    width: 452px;
+    height: 361px;
+   background-color: #F6623E;
+    border-radius: 10px;
+    position: relative;
+    margin-left: 401px;
+    margin-top: 96px;
+
+}
+  
+  
+
+
+
+.latest-news{
+
+   
+
+}
+.latestnews-main-text{
+
+    margin-top: 116px;
+
+}
+.latest-h2{
+    font-size: 40px;
+    line-height: 42px;
+    font-weight: 600;
+    color: #000000;
+
+}
+
+.latest-p{
+font-size: 20px;
+font-weight: 400;
+line-height: 32px;
+color: #454545;
+margin-top: 18px;
+}
+.allpost-svg{
+    padding-left: 19px;
+    margin-top: -9px;
+}
+
+.BUTTONALLPOST{
+margin-top: -20px;
+   
+}
+.allposts{
+    position: relative;
+    left: 55%;
+  
+    text-decoration: none;
+    color: #F6623E;
+}
+
+
+.images-allposts{
+    display: flex;
+    margin-top: 100px;
+    gap: 44px;
+ 
+}
+.imagesall{
+
+    
+}
+
+
+.posts-h3{
+    font-size: 18px;
+    line-height: 26px;
+    color: #000000;
+    font-weight: 500;
+    margin-top: 18px;
+}
+.posts-p{
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 400;
+    color: #9D9D9D;
+    margin-top: 18px;
+}
+.readmoreButton{
+    text-decoration: none;
+    color: #F6623E;
+    font-size: 16px;
+    line-height: 25px;
+    margin-top: 18px;
+}
+
+.ARROW-READ{
+
+
+
+
+   
+}
+.readmorebuttondiv{
+    margin-top: 18px;
+}
+
+
+
+
+
+
+
+
+
+
+.GOOD4ME-TEXTT{
+    margin-top: 156px;
+    width: 884px;
+    height: 199px;
+    background-color: #FFF8F6;
+}
+
+.h1h11{
+    font-size: 40px;
+    line-height: 42px;
+    color: #000000;
+    font-weight: 600;
+}
+
+.paragrapht{
+    font-size: 20px;
+    line-height: 32px;
+    font-weight: 400px;
+    color: #454545;
+}
+
+.texmaintextt{
+  position: relative;
+  top: 30%;
+}
+
+.rowimg{
+    display: flex;
+}
+
+.rowimgDIV{
+
+   
+}
+.mainfooter{
+    margin-top: 314px;
+    display: flex;
+    gap: 227px;
+}
+
+.footertext{
+    margin-left: 121px;
+}
+
+
+.wavee{
+
+}
+.pagefooter{
+   background-color: #FFF8F6;
+ 
+}
+
+.footerP{
+  font-size: 16px;
+  line-height: 26px;
+  color: #454545;
+}
+.footerh3{
+    font-size: 26px;
+    line-height: 20px;
+    color: #000000;
+   margin-bottom: 20px;
+}
+
+
+@media screen and (min-width: 768px) and (max-width: 1200px) {
+    /* styles for laptops */
+
+    .top-header{
+      
+        height: 50px;
+  
+      
+  }
+}
