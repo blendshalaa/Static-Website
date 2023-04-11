@@ -643,13 +643,27 @@ margin-top: -20px;
 }
 
 
-@media screen and (min-width: 768px) and (max-width: 1200px) {
-    /* styles for laptops */
 
-    .top-header{
-      
-        height: 50px;
-  
-      
-  }
+
+   
+.footertext{
+    margin-top: 150px;
+}
+
+.lowerfooter{
+
+}
+
+
+.lowerfootMain{
+    display: flex;
+  margin-left: 120px;
+    margin-top: 220px;
+    gap: 500px;
+   
+ 
+}
+
+span{
+    color: #F6623E;
 }
